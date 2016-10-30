@@ -41,7 +41,7 @@ it in your web browser with `http://<charm_ip>:8080/`
 
 ## Contact Information
 
-- kos.tsakalozos@canonical.com
+- [Report bugs](https://github.com/sastix/tomee-charm-layer/issues)
 
 
 ## Resources
