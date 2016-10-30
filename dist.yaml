@@ -1,0 +1,15 @@
+vendor: 'apache'
+groups:
+    - 'tomcat'
+users:
+    tomcat:
+        groups: ['tomcat']
+dirs:
+    tomee_dir:
+        path: '/opt/apache-tomee'
+        owner: 'tomcat'
+        perms: 0755
+ports:
+    tomee:
+        port: 8080
+        exposed_on: 'tomee'
