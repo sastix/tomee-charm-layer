@@ -17,5 +17,6 @@ class TestDeploy(unittest.TestCase):
         self.d.sentry.wait_for_messages(
             {'tomee': 'Failed to fetch TomEE binary'}, timeout=1800)
 
+
 if __name__ == '__main__':
     unittest.main()

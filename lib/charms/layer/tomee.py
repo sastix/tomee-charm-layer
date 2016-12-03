@@ -15,7 +15,9 @@ class TomEE(object):
         self.dist_config = dist_config or utils.DistConfig()
 
     def install(self):
-
+        '''
+        Fetch resources
+        '''
         self.dist_config.add_users()
         self.dist_config.add_dirs()
 
