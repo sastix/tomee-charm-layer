@@ -39,6 +39,7 @@ You can then use `juju status` to get address for the service and then open
 it in your web browser with `http://<charm_ip>:8080/`
 
 
+
 ## Contact Information
 
 - [Report bugs](https://github.com/sastix/tomee-charm-layer/issues)
