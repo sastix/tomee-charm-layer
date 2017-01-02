@@ -48,3 +48,4 @@ it in your web browser with `http://<charm_ip>:8080/`
 ## Resources
 
 - [Apache TomEE](http://tomee.apache.org/index.html) home page
+
